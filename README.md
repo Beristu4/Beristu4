@@ -1,15 +1,9 @@
-Hola 👋, Soy Nicolas Burgueño
-Full-Stack web developer de Argentina 🌍
+Hola 👋, Soy Agustin Benito, tengo 24 años, soy de la provincia de Mendoza , Argentina.
+Actualmente soy Desarrollador Full Stack Developer con muchas ganas de empezar en el camino IT. Me siento capacitado para realizar proyectos web escalables , resolver problema y sobre todo tratar con un equipo que me acompañe
 
-    🌱 Me encuentro aprendiendo --> React Native, TypeScript
+Tengo muchas ganas de superarme dia a dia aprendiendo nuevas tecnologias por que encontre lo que realmente me apasiona.
 
-    💬 Me puedes preguntar sobre --> JavaScript,React & Redux,NodeJS,Express,HTML,CSS,PostgreSQL,Sequelize
-
-    📫 Para contactarme --> nicolasburgo12@hotmail.com
-
-Contáctese conmigo:
-
-nico-burgueño-fullstack
-Lenguajes y Herramientas:
-
-babel bash bootstrap css3 express git html5 javascript linux nodejs postgresql postman react redux sqlite webpack 
+📫 Para contactarme 
+Email: agus.beri17@gmail.com
+WhatsApp: +54 9 2613268888
+Linkedin: https://www.linkedin.com/in/agustin-benito-39895621b/
