@@ -1,16 +1,15 @@
-### Hi there 👋
+Hola 👋, Soy Nicolas Burgueño
+Full-Stack web developer de Argentina 🌍
 
-<!--
-**Beristu4/Beristu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🌱 Me encuentro aprendiendo --> React Native, TypeScript
 
-Here are some ideas to get you started:
+    💬 Me puedes preguntar sobre --> JavaScript,React & Redux,NodeJS,Express,HTML,CSS,PostgreSQL,Sequelize
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    📫 Para contactarme --> nicolasburgo12@hotmail.com
+
+Contáctese conmigo:
+
+nico-burgueño-fullstack
+Lenguajes y Herramientas:
+
+babel bash bootstrap css3 express git html5 javascript linux nodejs postgresql postman react redux sqlite webpack 
