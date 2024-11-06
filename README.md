@@ -1,10 +1,13 @@
-Hola 👋, Soy Agustin Benito, tengo 24 años, soy de la provincia de Mendoza , Argentina.
-Actualmente soy Desarrollador Full Stack Developer con muchas ganas de empezar en el camino IT. Me siento capacitado para realizar proyectos web escalables , resolver problema y sobre todo tratar con un equipo que me acompañe
+Hola, soy Agustín, Desarrollador con gran enfoque en la innovación y la calidad en cada proyecto. Me apasiona resolver problemas complejos y trabajar en equipo para crear soluciones que impacten positivamente en la sociedad. Estoy comprometido con el avance tecnológico y la mejora continua.
 
-Tengo muchas ganas de superarme dia a dia aprendiendo nuevas tecnologias por que encontre lo que realmente me apasiona.
+Principales Skills:
 
-📫 Para contactarme 
-Email: agus.beri17@gmail.com
-WhatsApp: +54 9 2613268888
-Linkedin: https://www.linkedin.com/in/agustin-benito-39895621b/
-Portafolio: https://portafolio-livid.vercel.app/#
+Frontend: JavaScript, React.js, Angular, Vue.js, Bootstrap, CSS, HTML.
+
+Backend: Node.js, Express.js, PostgreSQL, ASP.NET, SQL Server, .NET Core.
+
+Si deseas saber más sobre mi trayectoria o explorar colaboraciones, ¡no dudes en contactarme!
+
+E-mail: agus.beri17@gmail.com
+GitHub: https://github.com/Beristu4
+Portafolio: https://portafolio-livid.vercel.app
