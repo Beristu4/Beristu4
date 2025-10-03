@@ -4,10 +4,10 @@ Principales Skills:
 
 Frontend: JavaScript, React.js, Angular, Vue.js, Bootstrap, CSS, HTML.
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,github,c#,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,github,html,css vue,js)](https://skillicons.dev)
 
 
-Backend: Node.js, Express.js, PostgreSQL, ASP.NET, SQL Server, .NET Core.
+Backend:
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,docker,dotnet,express,java,nodejs,postgres,postman)](https://skillicons.dev)
 
