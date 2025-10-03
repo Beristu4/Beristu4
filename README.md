@@ -2,6 +2,8 @@ Hola, soy Agustín, Desarrollador con gran enfoque en la innovación y la calida
 
 Principales Skills:
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 Frontend: JavaScript, React.js, Angular, Vue.js, Bootstrap, CSS, HTML.
 
 Backend: Node.js, Express.js, PostgreSQL, ASP.NET, SQL Server, .NET Core.
