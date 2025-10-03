@@ -4,7 +4,7 @@ Principales Skills:
 
 Frontend: JavaScript, React.js, Angular, Vue.js, Bootstrap, CSS, HTML.
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,github,html,css vue,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,github,html,css, vue,js)](https://skillicons.dev)
 
 
 Backend:
