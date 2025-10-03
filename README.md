@@ -20,5 +20,7 @@ Si deseas saber más sobre mi trayectoria o explorar colaboraciones, ¡no dudes 
 
 
 E-mail: agus.beri17@gmail.com
+
 GitHub: https://github.com/Beristu4
+
 Portafolio: https://portafolio-livid.vercel.app
